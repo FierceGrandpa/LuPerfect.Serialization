@@ -1,0 +1,12 @@
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\bin\Debug\net6.0\LuPerfect.Serialization.deps.json
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\bin\Debug\net6.0\LuPerfect.Serialization.dll
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\bin\Debug\net6.0\ref\LuPerfect.Serialization.dll
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\bin\Debug\net6.0\LuPerfect.Serialization.pdb
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\obj\Debug\net6.0\LuPerfect.Serialization.csproj.AssemblyReference.cache
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\obj\Debug\net6.0\LuPerfect.Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\obj\Debug\net6.0\LuPerfect.Serialization.AssemblyInfoInputs.cache
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\obj\Debug\net6.0\LuPerfect.Serialization.AssemblyInfo.cs
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\obj\Debug\net6.0\LuPerfect.Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\obj\Debug\net6.0\LuPerfect.Serialization.dll
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\obj\Debug\net6.0\ref\LuPerfect.Serialization.dll
+C:\Users\Shop59\source\repos\LuPerfect.Serialization\LuPerfect.Serialization\obj\Debug\net6.0\LuPerfect.Serialization.pdb
